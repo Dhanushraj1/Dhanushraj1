@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Dhanushraj 👋  
 
-<!--
-**Dhanushraj1/Dhanushraj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** and **Blockchain Enthusiast** who loves building robust web applications and exploring new technologies. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools  
+
+- **Programming Languages**: JavaScript, Python, C++, Rust  
+- **Web Development**: React, Next.js, Node.js, Express.js, FastAPI  
+- **Blockchain**: Bitcoin Mining, Blockchain Development  
+- **Databases**: MySQL, PostgreSQL, MongoDB  
+- **Tools & Platforms**: Docker, Kafka, Git, GitHub, VS Code  
+
+---
+
+## 📈 GitHub Stats  
+
+![Dhanushraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanushraj1&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Currently Learning  
+
+- TypeScript  
+- Kubernetes  
+- Blockchain Optimization  
+
+---
+
+## 📫 How to Reach Me  
+
+- **Email**: dhanushrajkutty@gmail.com  
+- **LinkedIn**: [Dhanushraj](https://www.linkedin.com/in/dhanushraj)  
+
+---
+
+## ⚡ Fun Fact  
+
+I enjoy solving complex problems and working on projects that optimize processes, especially in blockchain technology. When I’m not coding, I love playing chess and taking on new challenges!  
+
+---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate on an exciting project or have any questions. Let’s build something incredible together!  
+```` ▋
